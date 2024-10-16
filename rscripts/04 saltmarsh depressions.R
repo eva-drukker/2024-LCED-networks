@@ -10,6 +10,8 @@ library(patchwork)
 library(lme4)
 library(lmerTest)
 
+# this is the script of Eva Drukker for the LCED course on schier
+
 # we work with the following database that you made on monday
 # browseURL("https://docs.google.com/spreadsheets/d/1gAhwMWjA6aD3SMHb0j9X_4xYaxsDBNre6B5XyWDgzzI/edit?usp=sharing")
 
